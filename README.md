@@ -29,5 +29,6 @@ isSuspicious("James", "Johnny") should return false
 isSuspicious("Sam", "Bob") should return false
 ```
 Constraints:
+
 Length of nameA and nameB is between 0 and 100
 Only characters of the English alphabet are allowed (no spaces, no punctuation marks, no other symbols)
