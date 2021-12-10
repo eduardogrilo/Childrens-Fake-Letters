@@ -14,7 +14,7 @@ For example if two children have the same address and sign their letters with "A
 Your task is to write a function that will help Santa to figure out if a pair of names are suspicious or not.
 
 Function signature:<br/>
-```isSuspicious(String nameA, String nameB) returns boolean```
+isSuspicious(String nameA, String nameB) returns boolean
 
 Examples:
 ```
