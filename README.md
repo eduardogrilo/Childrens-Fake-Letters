@@ -1,5 +1,11 @@
 # Childrens_fake_letters
+# Santa's shopping list
+*This code is part of the "Tech Challenge Series – Advent Calendar 2021" advanced by Blip.pt (developed by Devskiller)*
 
+> This year counting down to Christmas will be even funnier and Blip will be by your side the whole time with a variety of small programming puzzles and lots of prizes!
+
+
+## Task description
 Santa has a problem with fake letters. He is receiving multiple letters from the same children. Some children are sending more than one letter pretending to be someone else, so one child can receive more than one gift. This is illegal according to Rovaniemi's legal notice article 51, which states that each child should only receive one and only one gift from Santa.
 
 However, he noticed that these clever kids are signing the extra letters using their name, but just re-arranging the letters around.
