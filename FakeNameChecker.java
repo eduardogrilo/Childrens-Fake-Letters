@@ -1,6 +1,6 @@
 public class FakeNameChecker {
 
-    public boolean isSuspicious(String nameA, String nameB) {
+    public static boolean isSuspicious(String nameA, String nameB) {
         
         int count_charA = 0, count_charB = 0;
 
@@ -16,12 +16,13 @@ public class FakeNameChecker {
                 }
             if(count_charA != count_charB){
                 return false;
-            }
-        }        
-    }
+                }
+            }        
+        }
     return true;
-}
-    public void main(String[] args) {
+    }
+
+    public static void main(String[] args) {
         System.out.println(isSuspicious("Orlando","Ronaldo"));
     }
 
