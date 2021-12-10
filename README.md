@@ -13,7 +13,8 @@ For example if two children have the same address and sign their letters with "A
 
 Your task is to write a function that will help Santa to figure out if a pair of names are suspicious or not.
 
-Function signature
+Function signature:
+
 ```isSuspicious(String nameA, String nameB) returns boolean```
 
 Examples:
@@ -27,6 +28,6 @@ isSuspicious("", "") should return true
 isSuspicious("James", "Johnny") should return false
 isSuspicious("Sam", "Bob") should return false
 ```
-Constraints
+Constraints:
 Length of nameA and nameB is between 0 and 100
 Only characters of the English alphabet are allowed (no spaces, no punctuation marks, no other symbols)
